@@ -1,5 +1,5 @@
 {
-  "extends": ["@sourcegraph/eslint-config"],
+  "extends": ["@test/eslint-config"],
   "parserOptions": {
     "project": "tsconfig.all.json"
   }
